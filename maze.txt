@@ -1,4 +1,6 @@
 
+Just run the ruby code, it will show up
+
 here is the display of maze:
 111111111
 100010001
